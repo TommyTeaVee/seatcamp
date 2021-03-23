@@ -1,11 +1,11 @@
-![seatcamp](https://github.com/tec27/seatcamp/blob/master/icon/icon-256.png)
+![hi5](https://github.com/tec27/seatcamp/blob/master/icon/icon-256.png)
 
-# seatcamp
+# Hi5
 
-A web-based ephemeral chat site that lets users send simple, short messages
+An ephemeral chat site that lets users send simple, short messages
 along with a 2-second video of themselves.
 
-The offical server can be found at [https://chat.meatspac.es](https://chat.meatspac.es)
+
 
 ## Table of contents
 
