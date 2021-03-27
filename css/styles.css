@@ -3,7 +3,7 @@
 *:after {
   box-sizing: border-box;
 }
-
+ #580913
 html {
   margin: 0;
   padding: 0;
@@ -22,7 +22,7 @@ body {
   --colorTextSecondary: rgba(0, 0, 0, 0.6);
   --colorTextDisabled: rgba(0, 0, 0, 0.3);
   --colorTextInvert: #ffffff;
-  --colorTextLink: #f06292;
+  --colorTextLink: #580913;
 
   --colorIconPrimary: rgba(0, 0, 0, 0.6);
   --colorIconDisabled: rgba(0, 0, 0, 0.3);
@@ -274,7 +274,7 @@ footer .progress {
   border: 1px solid rgba(0, 0, 0, 0.54);
   outline: none;
   border-radius: 2px;
-  background-color: #f06292;
+  background-color: #580913;
   opacity: 0;
   visibility: hidden;
 
@@ -370,7 +370,7 @@ form {
 
 #message:active:active,
 #message:focus:focus {
-  border-color: #f06292;
+  border-color: #580913;
   border-width: 2px;
   padding: 4px 2px 3px 2px; /* account for extra border size */
 }
@@ -427,7 +427,7 @@ body #message.full:focus:focus {
 
 #send {
   border: 0;
-  background-color: #f06292;
+  background-color: #580913;
   /* match the form's border radius on the outer corners */
   border-radius: 0 2px 2px 0;
   margin: 0 0 0 4px;
@@ -488,7 +488,7 @@ body #message.full:focus:focus {
 
 .progress .circle .mask .fill {
   clip: rect(0px, 24px, 48px, 0px);
-  background-color: #f06292;
+  background-color: #580913;
 }
 
 .progress .inset {
